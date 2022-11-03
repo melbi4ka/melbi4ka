@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @melbi4ka
+- 👋 Hi, I’m @melbi4ka Maya Bachvarova
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python at Softuni.bg
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aaide13@abv.bg
 
