@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" width="100"/>
+</div>
+
+
 - 👋 Hi, I’m @melbi4ka Maya Bachvarova
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python at Softuni.bg
