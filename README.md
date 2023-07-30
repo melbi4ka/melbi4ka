@@ -1,13 +1,14 @@
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" width="300"/>
+</div>
+
+
 
 - 👋 Hi, I’m @melbi4ka Maya Bachvarova
 - 👀 I’m interested in Python and Java Script
 - 🌱 I’m currently learning Python at Softuni.bg
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aaide13@abv.bg
-
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" width="300"/>
-</div>
 
 <!---
 melbi4ka/melbi4ka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
