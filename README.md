@@ -20,6 +20,6 @@ You can click the Preview link to take a look at your changes.
 
 ### :fire: My Stats :
 
-<img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=melbi4ka&theme=dark&background=000000)](https://git.io/streak-stats)" title="Stats" alt="Stats" />&nbsp; 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=melbi4ka&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
